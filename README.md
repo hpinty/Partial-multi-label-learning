@@ -33,6 +33,9 @@ If you find our work useful, please consider citing our article:
   publisher={Elsevier}
 }
 
+## Official Implementation
+
+The code provided herein is the authentic and endorsed version of the algorithms and methodologies described in the paper.
 
 ## Contribution
 
